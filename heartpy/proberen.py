@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import heartpy.exceptions as exceptions
 
-# Define the path to your CSV file
+# Define path to CSV file
 file_path = r"C:\Users\20192414\OneDrive - TU Eindhoven\Desktop\24-25\Stage\proefdata\proefHR.csv"  
 
 # Load the data using pandas to handle a single column
